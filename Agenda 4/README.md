@@ -95,3 +95,13 @@ Passo 6 - Executar o programa (teste);
 - Caso o texto digitado fique sublinhado em vermelho no Netbeans significa que está com erro;
 - Comandos sublinhados em amarelo são recomendações ou aviso de variáveis declaradas, mas não utilizadas;
 - Se passar o mouse em cima das palavras sublinhadas, a IDE apontará recomendações para correção do problema. Mas atenção: nem sempre a IDE acertará o palpite!
+
+---
+
+##### Exercícios de fixação
+
+| [Atividade SPCar](https://github.com/SabrinaLima94/AgendasDSI_ETEC/blob/main/Agenda%204/SPCar/src/SPCar.java) |
+| ----------------------- |
+
+| [Fluxograma](https://github.com/SabrinaLima94/AgendasDSI_ETEC/blob/main/Agenda%204/fluxograma_SPCar.pdf) |
+| ----------------------- |

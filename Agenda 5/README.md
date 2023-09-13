@@ -180,3 +180,11 @@ public class JoptionPane {
 _Exemplo de aplicação:_
 `if (nome.equals("Jose")) {...}`
 _Neste caso ele comparará se o valor armazenado na variável `nome` é igual a "Jose"._
+
+---
+
+###### Exercícios de fixação
+
+| [Atividade](https://github.com/SabrinaLima94/AgendasDSI_ETEC/blob/main/Agenda%205/sabrinaLima_agenda05_DS_I/src/sabrinaLima_agenda05_DS_I.java) |
+| ----------------------- |
+

@@ -94,3 +94,10 @@ O resultado da expressão é apenas invertido.
 | V OU F  | V \|\| F | VERDADEIRO |
 | F OU V  | F \|\| V | VERDADEIRO |
 | F OU F  | F \|\| F | FALSO |
+
+---
+
+##### Exercícios de fixação
+
+| [Atividade](https://github.com/SabrinaLima94/AgendasDSI_ETEC/blob/main/Agenda%202/atividade_agenda2.pdf) |
+| ----------------------- |

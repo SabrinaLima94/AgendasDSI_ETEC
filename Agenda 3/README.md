@@ -27,26 +27,12 @@ public class Principal {
 `public static void main(String[] args)` --> Início da programação - Estrutura principal (onde fica a codificação);
 As chaves `{}`representam o início e fim, sendo a abertura de Chave `{` o início e, o fechamento de chave `}` o final do seu programa.
 
+---
 
+##### Exercício de fixação
 
+| [Atividade apostila](https://github.com/SabrinaLima94/AgendasDSI_ETEC/blob/main/Agenda%203/atividadeApostila/src/atividadeApostila.java) |
+| ----------------------- |
 
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+| [Olá mundo!](https://github.com/SabrinaLima94/AgendasDSI_ETEC/blob/main/Agenda%203/OlaMundo/src/OlaMundo.java) |
+| ----------------------- |
