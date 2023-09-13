@@ -11,7 +11,7 @@ _Este é um repositório com todas as atividades desenvolvidas por mim na matér
 <ul>
 Constante e variável, operadores aritméticos, relacionais e lógicos.
 
-| [Consultar material](#) |
+| [Consultar material](https://github.com/SabrinaLima94/AgendasDSI_ETEC/tree/main/Agenda%202) |
 | ----------------------- |
 
 </ul>
@@ -25,7 +25,7 @@ Constante e variável, operadores aritméticos, relacionais e lógicos.
 Apresentação da linguagem de programação Java, ferramentas necessárias para iniciar a programação e estrutura básica de um programa em Java.
 <br>
 
-| [Consultar material](#) |
+| [Consultar material](https://github.com/SabrinaLima94/AgendasDSI_ETEC/tree/main/Agenda%203) |
 | ----------------------- |
 
 </ul>
@@ -39,7 +39,7 @@ Apresentação da linguagem de programação Java, ferramentas necessárias para
 Exibição de mensagens na tela (console), declaração de variáveis, leitura de dados, importação de biblioteca java (`Scanner`) e metodologia para desenvolvimento de um programa.
 <br>
 
-| [Consultar material](#) |
+| [Consultar material](https://github.com/SabrinaLima94/AgendasDSI_ETEC/tree/main/Agenda%204) |
 | ----------------------- |
 
 </ul>
@@ -52,7 +52,7 @@ Exibição de mensagens na tela (console), declaração de variáveis, leitura d
 <ul>
 Estrutura de decisão, `if/else`, estruturas de decisão aninhadas, `JOptionPane` (entrada e saída de dados), conversão de tipos de variáveis, e uso do comando `equals`.
 
-| [Consultar material](#) |
+| [Consultar material](https://github.com/SabrinaLima94/AgendasDSI_ETEC/tree/main/Agenda%205) |
 | ----------------------- |
 
 </ul>
