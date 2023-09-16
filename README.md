@@ -66,7 +66,7 @@ Estrutura de decisão, if/else, estruturas de decisão aninhadas, JOptionPane (e
 Switch-case com exemplos de aplicação, Try-Catch com exemplo de aplicação, e formatação da caixa de diálogo (JOptionPane).
 <br>
 
-| [Consultar material](#) |
+| [Consultar material](https://github.com/SabrinaLima94/AgendasDSI_ETEC/tree/main/Agenda%206) |
 | ----------------------- |
 
 </ul>
