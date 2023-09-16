@@ -88,3 +88,15 @@ _Neste caso o comando `try` tenta executar os comandos que estão dentro das cha
 - A caixa de diálogo pode ser formatada de acordo com sua necessidade;
 - O comando `"Alerta", JOptionPane.WARNING_MESSAGE);` inclui a formatação do título da janela ("Alerta"), e a parte `JOptionPane.WARNING_MESSAGE` altera o ícone para um alerta com ponto de exclamação, indicando aviso;
 - O comando `  ,”E R R O”, JOptionPane.ERROR_MESSAGE);` no exemplo anterior inclui a formatação com uma parte em **vermelho** ("E R R O") como título da janela, e a parte `JOptionPane.ERROR_MESSAGE` altera o ícone para uma cruz vermelha, indicando erro;
+
+###### Exercícios de fixação
+
+[Atividade 1 - apostila](https://github.com/SabrinaLima94/AgendasDSI_ETEC/blob/main/Agenda%206/exercicio1_Apostila/src/exercicio1_Apostila.java) 
+
+[Atividade 2 - apostila](https://github.com/SabrinaLima94/AgendasDSI_ETEC/blob/main/Agenda%206/exercicio1_Apostila/src/exercicio2_Apostila.java) 
+
+[Atividade 3 - apostila](https://github.com/SabrinaLima94/AgendasDSI_ETEC/blob/main/Agenda%206/exercicio1_Apostila/src/exercicio3_Apostila.java) 
+
+[Atividade Fichário](https://github.com/SabrinaLima94/AgendasDSI_ETEC/blob/main/Agenda%206/sabrinaLima_Ag6_DS_I/src/sabrinaLima_Ag6_DS_I.java)
+
+[Fluxograma](https://github.com/SabrinaLima94/AgendasDSI_ETEC/blob/main/Agenda%206/fluxograma_agenda6_DS_I.jpg) 
