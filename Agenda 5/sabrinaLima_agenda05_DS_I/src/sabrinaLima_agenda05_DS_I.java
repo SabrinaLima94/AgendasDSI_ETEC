@@ -16,7 +16,7 @@ public class sabrinaLima_agenda05_DS_I {
         // Processamento/Decisão
         if (idade < 60) {
             JOptionPane.showMessageDialog(null, "Usuário deve ser encaminhado para a fila comum.");
-        } else if (idade >= 60 && idade < 80) {
+        } else if (idade <= 80) {
             JOptionPane.showMessageDialog(null, "Usuário deve ser encaminhado para a fila prioritária.");
         } else {
             JOptionPane.showMessageDialog(null, "Usuário deve ser encaminhado para a fila 80+.");
